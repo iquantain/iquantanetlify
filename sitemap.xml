@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://iquanta.netlify.app/</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/cat-2024</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/cat-course</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/pgdba-course</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/mahcet</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/cat-score-calculator</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/cat-study-material</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/iim-call-predictor</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iquanta.netlify.app/tiss-paper</loc>
+  <lastmod>2024-01-04T06:00:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
